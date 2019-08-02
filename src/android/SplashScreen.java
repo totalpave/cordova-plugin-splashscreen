@@ -17,6 +17,12 @@
        under the License.
 */
 
+/*
+Modifications:
+- PR https://github.com/apache/cordova-plugin-splashscreen/pull/124
+    - showSplashScreen
+*/
+
 package org.apache.cordova.splashscreen;
 
 import android.app.Dialog;
