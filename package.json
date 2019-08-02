@@ -1,8 +1,11 @@
 {
-  "name": "cordova-plugin-splashscreen",
-  "version": "5.0.3",
+  "name": "@totalpave/cordova-plugin-splashscreen",
+  "version": "1.0.0",
   "description": "Cordova Splashscreen Plugin",
   "types": "./types/index.d.ts",
+  "totalpave": {
+    "thirdparty": true
+  },
   "cordova": {
     "id": "cordova-plugin-splashscreen",
     "platforms": [
@@ -13,8 +16,8 @@
       "browser"
     ]
   },
-  "repository": "github:apache/cordova-plugin-splashscreen",
-  "bugs": "https://github.com/apache/cordova-plugin-splashscreen/issues",
+  "repository": "https://github.com/totalpave/cordova-plugin-splashscreen",
+  "bugs": "https://github.com/totalpave/cordova-plugin-splashscreen/issues",
   "keywords": [
     "cordova",
     "splashscreen",
